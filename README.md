@@ -8,7 +8,6 @@ Designed tables to hold data in the CSVs, imported the CSVs into a SQL database,
 2. Data Engineering
 3. Data Analysis
 
-## Objectives
 
 ## Data Modeling
 
