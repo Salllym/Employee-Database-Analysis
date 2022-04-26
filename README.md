@@ -13,6 +13,8 @@ Designed tables to hold data in the CSVs, imported the CSVs into a SQL database,
 
 Inspected the CSVs and sketched out an ERD of the tables using QuickDBD.
 
+![ERD](EmployeeSQL/employee_db_ERD.png) 
+
 ## Data Engineering
 
 * Created a table schema for each of the six CSV files and specified data types, primary keys, foreign keys, and other constraints.
